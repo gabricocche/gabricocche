@@ -1,5 +1,5 @@
-<h1 align="center">Ciao 👋, sono Gabriele Cocchetti</h1>
-<h3 align="center">Uno studente di Informatica</h3>
+<h1 align="left">Ciao 👋, sono Gabriele Cocchetti</h1>
+<h3 align="left">Uno studente di Informatica</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabricocche" alt="gabricocche" /></a> </p> -->
 
