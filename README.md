@@ -7,7 +7,7 @@
 
 - 🌱 Sto imparando **Java, Javascript, Python, Html e CSS**
 
-- 👨‍💻 Per maggiori informazioni: [https://gabrielecocchetti.it](https://gabrielecocchetti.it)
+- 👨‍💻 Per maggiori informazioni: [https://gabrielecocchetti.it](https://gabrielecocchetti.it) - Work in progress
 
 - 📫 In caso di bisogno, scrivimi una mail **mail@gabrielecocchetti.it**
 
