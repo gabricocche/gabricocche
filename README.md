@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabricocche" alt="gabricocche" /></a> </p> -->
 
-- 🔭 Sto lavorando a [rubricatelefonicapython](https://github.com/gabricocche/rubricatelefonicapython)
+- 🔭 Sto lavorando a [rubricatelefonicapython](https://github.com/gabricocche/rubricatelefonicapython) e [agendapython](https://github.com/StefanoLosio/lezione-python-compilazione)
 
 - 🌱 Sto imparando **Java, Javascript, Python, Html e CSS**
 
