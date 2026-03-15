@@ -9,7 +9,7 @@
 
 - 👨‍💻 Per maggiori informazioni: [https://gabrielecocchetti.it](https://gabrielecocchetti.it) - Work in progress
 
-- 📫 In caso di bisogno, scrivimi una mail **mail@gabrielecocchetti.it**
+- 📫 In caso di necessita, scrivimi una mail **mail@gabrielecocchetti.it**
 
 
 <h3 align="left">Linguaggi e tool che utilizzo:</h3>
